@@ -1,2 +1,4 @@
-##LAMP playbook for Ansible. 
-This is only used to for my guide: [How to create a LAMP stack with Ansible](https://coderwall.com/p/6zm8rq)
+##LAMP playbook for Ansible.
+This is my adaptation of pix-art's LAMP stack deployment Ansible playbook.
+It is adapted to my specific needs.
+ 
