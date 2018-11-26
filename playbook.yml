@@ -1,8 +1,6 @@
 # playbook.yml
 ---
-any_errors_fatal: true
 - hosts: all
-  any_errors_fatal: true
   roles:
     - apache2
     - mariadb
